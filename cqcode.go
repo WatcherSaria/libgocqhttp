@@ -1,4 +1,4 @@
-package src
+package libgocqhttp
 
 import (
 	"fmt"
