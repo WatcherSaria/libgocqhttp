@@ -1,4 +1,4 @@
-package libgocqhttp
+package src
 
 type anonymous struct {
 	Flag string `json:"flag"`

@@ -1,4 +1,4 @@
-package libgocqhttp
+package src
 
 import (
 	"encoding/json"
