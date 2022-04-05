@@ -5,8 +5,7 @@ Go-CQHTTP用于Go语言的SDK
 
 #### 安装教程
 
-1.  Git clone https://gitee.com/Watcher_Saria/libgocqhttp.git
-2.  在SDK目录中添加该项目文件
+go get github.com/WatcherSaria/libgocqhttp
 
 #### 使用说明
 
